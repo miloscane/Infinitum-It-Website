@@ -1,0 +1,10 @@
+/public/images
+/public/icons
+/public/downloadables
+/public/videos
+/public/logos
+/public/uploads
+/public/pots
+**/.DS_Store
+.env
+/node_modules
